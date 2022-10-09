@@ -1,18 +1,12 @@
 # Table of contents
 
-## Python
-
-* [Python Cheat Sheet](https://devsonket.com/python3-cheat-sheet/)
+* [Cheat Sheet](README.md)
 
 ## Bash
 
-* [Commands](README.md)
+* [Commands](<README (1).md>)
 * [Bash References](bash/bash-references.md)
 
 ## Kotlin
 
-* [Cheat Sheet](kotlin/cheat-sheet.md)
-
-## DevOps
-
-* [Docker](devops/docker.md)
+* [Kotlin Sheet](kotlin/kotlin-sheet.md)

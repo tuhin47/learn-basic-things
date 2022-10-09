@@ -1,11 +1,10 @@
-# Commands
+# Cheat Sheet
 
-#### Grep Class inside from Jar
+## _Websites_
 
-`grep -rnw . -e 'ClassName'`
+### [ডেভসংকেত](https://devsonket.com/) ([devsonket](https://devsonket.com/) )
 
-#### `Make Shortcut Link Running from ALT+F2`
+### __[_QuickRef.ME_](https://quickref.me/) 
 
-```
-[/usr/bin] sudo ln -s ~/scripts/openTime.sh tt
-```
+* [Docker ](https://devsonket.com/docker-cheat-sheet/)
+* [Python](https://quickref.me/python)
