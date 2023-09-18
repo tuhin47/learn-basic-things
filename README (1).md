@@ -1,11 +1,5 @@
 # Commands
 
-#### Grep Class inside from Jar
+**Git Commit with a different date**
 
-`grep -rnw . -e 'ClassName'`
-
-#### `Make Shortcut Link Running from ALT+F2`
-
-```
-[/usr/bin] sudo ln -s ~/scripts/openTime.sh tt
-```
+`git commit -m "Nothing" --date="2020-09-18 19:00:05"`
