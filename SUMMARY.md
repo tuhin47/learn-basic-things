@@ -10,3 +10,7 @@
 ## Kotlin
 
 * [Kotlin Sheet](kotlin/kotlin-sheet.md)
+
+## Basic
+
+* [SOLID](basic/solid.md)
