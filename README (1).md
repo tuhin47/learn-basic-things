@@ -24,5 +24,9 @@ sudo service ntp start
 
 </details>
 
+## Grep Commands
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 
 
