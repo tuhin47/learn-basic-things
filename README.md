@@ -1,10 +1,14 @@
-# Cheat Sheet
+# Websites
 
-## _Websites_
+## Blogs
 
-### [ডেভসংকেত](https://devsonket.com/) ([devsonket](https://devsonket.com/) )
+{% embed url="https://cs.fyi/" %}
+Computer Site
+{% endembed %}
 
-### [_QuickRef.ME_](https://quickref.me/) 
+## Roadmaps
 
-* [Docker ](https://devsonket.com/docker-cheat-sheet/)
-* [Python](https://quickref.me/python)
+{% embed url="https://roadmap.sh/" %}
+Roadmaps
+{% endembed %}
+

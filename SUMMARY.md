@@ -1,15 +1,12 @@
 # Table of contents
 
-* [Cheat Sheet](README.md)
+* [Websites](README.md)
+* [Cheat Sheet](<README (1).md>)
 
-## Bash
+## Misc
 
-* [Commands](<README (1).md>)
-* [Bash References](bash/bash-references.md)
-
-## Basic
-
-* [SOLID](basic/solid.md)
+* [Essential Commands](misc/essential-commands.md)
+* [Ubuntu References](misc/ubuntu-references.md)
 
 ## Random
 
